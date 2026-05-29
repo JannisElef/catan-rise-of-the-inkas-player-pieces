@@ -4,4 +4,4 @@
 
 Player Pieces to print for CATAN: Rise of the Inkas. Print a set in your own color or print additional pieces to fit the Rise of the Inka theme and play it like classic CATAN.
 
-![CATAN-Inka](https://raw.githubusercontent.com/JannisElef/catan-rise-of-the-inkas-player-pieces/main/assets/img/webp/thumbnail-webp.webp)
+![CATAN-Inka](https://raw.githubusercontent.com/JannisElef/catan-rise-of-the-inkas-player-pieces/main/assets/img/web/webp/thumbnail-webp.webp)
